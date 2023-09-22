@@ -10,7 +10,7 @@
   
 
 👨‍💻 Electronics Engineer transforming to Moblie Developer  
-👨‍🎓 Studying Moblie Application Development and Design at Lambton College  
+👨‍🎓 Moblie Application Development and Design Graduate from Lambton College  
 
 ![](https://img.shields.io/static/v1?label=OS&message=MacOS%20&color=44B48C&logo=apple&style=plastic&logoColor=white)
 ![](https://img.shields.io/static/v1?label=Editor&message=VS%20Code%20&color=44B48C&logo=visualstudiocode&style=plastic&logoColor=white)
