@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blueviolet&logo=Twitter&style=social&logoColor=)](https://www.twitter.com/cmsf/)
   
 
-👨‍💻 Electronics Engineer transforming to Moblie Developer  
+👨‍💻 Electronics Engineer / iOS Developer  
 👨‍🎓 Moblie Application Development and Design Graduate from Lambton College  
 
 ![](https://img.shields.io/static/v1?label=OS&message=MacOS%20&color=44B48C&logo=apple&style=plastic&logoColor=white)
